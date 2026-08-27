@@ -1,0 +1,21 @@
+<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UPSC, Union Public Service Commission, Civil Services Examination Study Reference">
+  <rect width="760" height="230" fill="#faf6ec"/>
+  <rect width="760" height="6" fill="#e67e22"/>
+  <rect x="253" width="254" height="6" fill="#ffffff"/>
+  <rect x="507" width="253" height="6" fill="#2e7d32"/>
+
+  <rect x="16" y="26" width="728" height="188" fill="none" stroke="#4a2c17" stroke-width="1"/>
+  <rect x="22" y="32" width="716" height="176" fill="none" stroke="#4a2c17" stroke-width="1"/>
+
+  <text x="380" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="3" fill="#4a2c17">GOVERNMENT EXAMINATION - STUDY REFERENCE</text>
+
+  <g transform="translate(380,98) scale(0.5) translate(-130,-70)">
+    <text x="130" y="70" text-anchor="middle" font-family="'Arial Black', 'Helvetica Bold', Arial, sans-serif" font-size="56" font-weight="900" fill="none" stroke="#ffffff" stroke-width="16" stroke-linejoin="round">UPSC</text>
+    <text x="130" y="70" text-anchor="middle" font-family="'Arial Black', 'Helvetica Bold', Arial, sans-serif" font-size="56" font-weight="900" fill="#241a0d">UPSC</text>
+  </g>
+
+  <text x="380" y="152" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#241a0d">UNION PUBLIC SERVICE COMMISSION</text>
+  <text x="380" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#4a2c17">Civil Services Examination Study Reference &#183; Free Resource Compendium</text>
+
+  <line x1="60" y1="192" x2="700" y2="192" stroke="#4a2c17" stroke-width="0.75"/>
+</svg>
